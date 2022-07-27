@@ -1,0 +1,17 @@
+.bg-myRed{
+  background-color:tomato;
+}
+
+.content{
+  padding: 12px;
+  height: 3000px;
+  text-align: center;
+}
+
+.right-alighned{
+  justify-content: flex-end;
+}
+
+.my-Margin{
+  margin-left: 20px;
+}
